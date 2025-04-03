@@ -4,7 +4,7 @@ export default function TwoImages(){
      <div className="h-full flex flex-col items-center justify-around mx-8 relative z-10">
      <div className="md:hidden flex justify-center">
       </div>
-              <Image src="/at.jpg" alt="pic 1"  width={300} height={300} ></Image>
+              <Image src="/at.png" alt="pic 1"  width={300} height={300} ></Image>
               <Image src="/emps.png" alt="pic 1"    width={300} height={300}></Image>
     </div>
     </div>

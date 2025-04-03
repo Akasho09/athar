@@ -79,7 +79,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-      className={`${geistSans.variable} ${geistMono.variable} h-screen antialiased font-thin overflow-x-auto small-scrollbar bcg `}
+      className={`${geistSans.variable} ${geistMono.variable} h-screen antialiased font-thin overflow-x-auto small-scrollbar bcg`}
 >
         <div className="fixed left-0 h-screen md:w-[6rem] w-[5vw] md:border-r border-black z-50 bcg">
         <Me/>

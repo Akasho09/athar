@@ -20,10 +20,10 @@ const geistMono = Geist_Mono({
 
 // Metadata for SEO and social sharing
 export const metadata: Metadata = {
-  title: "Akash Ahmad Malik - Portfolio",
+  title: "Athar Nazir Malik - Portfolio",
   description: "Hi There!",
   keywords: [
-    "Akash Ahmad Malik",
+    "Athar Nazir Malik",
     "vin kya karas be cxei wan" ,
     "software developer",
     "portfolio",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     "technology",
     "projects",
   ],
-  authors: [{ name: "Akash Ahmad Malik" }],
+  authors: [{ name: "Athar Nazir Malik" }],
   robots: "index, follow",
   icons: {
     icon: "/image.png",
@@ -43,13 +43,13 @@ export const metadata: Metadata = {
     description:
       "Hi There!",
     url: "https://akash09.vercel.app", 
-    siteName: "Akash Ahmad Malik",
+    siteName: "Athar Nazir Malik",
     images: [
       {
         url: "https://your-domain.vercel.app/image.png", 
         width: 1200,
         height: 630,
-        alt: "Akash Ahmad Malik Portfolio Preview",
+        alt: "Athar Nazir Malik Portfolio Preview",
       },
     ],
     locale: "en_US",

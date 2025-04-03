@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     icon: "/image.png",
   },
   openGraph: {
-    title: "Akash Ahmad Malik - Portfolio",
+    title: "Athar Nazir Malik.",
     description:
       "Hi There!",
     url: "https://akash09.vercel.app", 
@@ -57,9 +57,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Akash Ahmad Malik - Portfolio",
+    title: "Athar Nazir Malik - Portfolio",
     description:
-      "Check out Akash Ahmad Malik's portfolio for software projects and tech skills.",
+      "",
     creator: "@Aakash41339611",
     images: ["https://your-domain.vercel.app/image.png"], 
   },
